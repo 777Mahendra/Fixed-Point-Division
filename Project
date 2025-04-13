@@ -1,0 +1,8 @@
+ #Fixed Point Division:                                                                                                                
+
+Fixed point division using numerical methods (Newton Raphson). Take a  fraction  like 15/23.  Using Newton Raphson method, first compute  1/23 and then multiply with 15. You need to do this in fixed point.
+
+Do your work both in Matlab and Verilog & then  verify  Verilog results with MATLAB
+
+
+
